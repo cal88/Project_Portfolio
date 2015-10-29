@@ -4,4 +4,4 @@ This repository is a collection of example projects that I have done. Its purpos
 
 * [Predicting User Churn](PDF/Telecom Churn_Presentation.pptx)
     * Can we predict which mobile subscribers will switch to other mobile operator?
-    * Other links: [paper](https://github.com/cal88/Project-Portfolio)
+    * Other links: [data](data/Telco_Churn)
